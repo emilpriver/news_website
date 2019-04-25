@@ -1,0 +1,34 @@
+$font: 'Montserrat',
+sans-serif;
+
+body {
+    margin: 0px;
+    padding: 0px;
+    font-family: $font;
+}
+
+#front_page {
+    width: 100%;
+    float: left;
+    padding-top: 150px;
+    text-align: center;
+
+    .wrapper {
+        max-width: 1000px;
+        margin: 0px auto;
+
+        input {
+            width: 100%;
+            padding: 30px 50px;
+            box-sizing: border-box;
+            border-radius: 15px;
+            outline: none;
+            border: 2px solid #eee;
+            font-size: 40px;
+            text-align: center;
+            box-shadow: 0px 3px 6px rgba(0, 0, 0, 0.16);
+            font-family: $font;
+            font-weight: 700;
+        }
+    }
+}

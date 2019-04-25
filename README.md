@@ -1,3 +1,9 @@
+## netlify status
+
+[![Netlify Status](https://api.netlify.com/api/v1/badges/9e08ce9e-9a1c-4308-a0ee-030306d70c38/deploy-status)](https://app.netlify.com/sites/silly-meitner-b194ea/deploys)
+
+##info
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
@@ -66,3 +72,4 @@ This section has moved here: https://facebook.github.io/create-react-app/docs/de
 ### `npm run build` fails to minify
 
 This section has moved here: https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify
+
